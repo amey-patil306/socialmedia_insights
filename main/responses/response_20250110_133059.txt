@@ -1,0 +1,37 @@
+Based on the provided data, I'll give insights on the total number of views on reels for each user.
+
+**Reels Views by User:**
+
+1. **User 101:** 
+   - Total Reels: 14
+   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843
+   - Average Views per Reel: 2843 / 14 ≈ 203.07
+
+2. **User 102:** 
+   - Total Reels: 9
+   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346
+   - Average Views per Reel: 1346 / 9 ≈ 149.56
+
+3. **User 103:** 
+   - Total Reels: 7
+   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472
+   - Average Views per Reel: 1472 / 7 ≈ 210.29
+
+4. **User 104:** 
+   - Total Reels: 4
+   - Total Views: 287 + 147 + 94 + 31 = 559
+   - Average Views per Reel: 559 / 4 ≈ 139.75
+
+5. **User 105:** 
+   - Total Reels: 7
+   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590
+   - Average Views per Reel: 2590 / 7 ≈ 369.86
+
+**Insights:**
+
+- **User 105** has the highest average views per reel, indicating that their reel content is performing well.
+- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.
+- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.
+- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.
+
+These insights can help users adjust their content strategy to increase engagement and views on their reels.

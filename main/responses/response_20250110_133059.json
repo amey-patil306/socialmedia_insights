@@ -1,0 +1,130 @@
+{
+  "session_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+  "outputs": [
+    {
+      "inputs": {
+        "input_value": "give total number of views on reels"
+      },
+      "outputs": [
+        {
+          "results": {
+            "message": {
+              "text_key": "text",
+              "data": {
+                "timestamp": "2025-01-10T08:00:58",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "session_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+                "text": "Based on the provided data, I'll give insights on the total number of views on reels for each user.\n\n**Reels Views by User:**\n\n1. **User 101:** \n   - Total Reels: 14\n   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843\n   - Average Views per Reel: 2843 / 14 \u2248 203.07\n\n2. **User 102:** \n   - Total Reels: 9\n   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346\n   - Average Views per Reel: 1346 / 9 \u2248 149.56\n\n3. **User 103:** \n   - Total Reels: 7\n   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472\n   - Average Views per Reel: 1472 / 7 \u2248 210.29\n\n4. **User 104:** \n   - Total Reels: 4\n   - Total Views: 287 + 147 + 94 + 31 = 559\n   - Average Views per Reel: 559 / 4 \u2248 139.75\n\n5. **User 105:** \n   - Total Reels: 7\n   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590\n   - Average Views per Reel: 2590 / 7 \u2248 369.86\n\n**Insights:**\n\n- **User 105** has the highest average views per reel, indicating that their reel content is performing well.\n- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.\n- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.\n- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.\n\nThese insights can help users adjust their content strategy to increase engagement and views on their reels.",
+                "files": [],
+                "error": false,
+                "edit": false,
+                "properties": {
+                  "text_color": "",
+                  "background_color": "",
+                  "edited": false,
+                  "source": {
+                    "id": "GroqModel-SnoEd",
+                    "display_name": "Groq",
+                    "source": "llama-3.1-70b-versatile"
+                  },
+                  "icon": "Groq",
+                  "allow_markdown": false,
+                  "state": "complete",
+                  "targets": []
+                },
+                "category": "message",
+                "content_blocks": [],
+                "id": "dc75205d-f3a2-4412-a0c8-f5dfdadf2238",
+                "flow_id": "43c68ebb-271d-4306-b1f6-841940d93bbb"
+              },
+              "default_value": "",
+              "text": "Based on the provided data, I'll give insights on the total number of views on reels for each user.\n\n**Reels Views by User:**\n\n1. **User 101:** \n   - Total Reels: 14\n   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843\n   - Average Views per Reel: 2843 / 14 \u2248 203.07\n\n2. **User 102:** \n   - Total Reels: 9\n   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346\n   - Average Views per Reel: 1346 / 9 \u2248 149.56\n\n3. **User 103:** \n   - Total Reels: 7\n   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472\n   - Average Views per Reel: 1472 / 7 \u2248 210.29\n\n4. **User 104:** \n   - Total Reels: 4\n   - Total Views: 287 + 147 + 94 + 31 = 559\n   - Average Views per Reel: 559 / 4 \u2248 139.75\n\n5. **User 105:** \n   - Total Reels: 7\n   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590\n   - Average Views per Reel: 2590 / 7 \u2248 369.86\n\n**Insights:**\n\n- **User 105** has the highest average views per reel, indicating that their reel content is performing well.\n- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.\n- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.\n- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.\n\nThese insights can help users adjust their content strategy to increase engagement and views on their reels.",
+              "sender": "Machine",
+              "sender_name": "AI",
+              "files": [],
+              "session_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+              "timestamp": "2025-01-10T08:00:58Z",
+              "flow_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+              "error": false,
+              "edit": false,
+              "properties": {
+                "text_color": "",
+                "background_color": "",
+                "edited": false,
+                "source": {
+                  "id": "GroqModel-SnoEd",
+                  "display_name": "Groq",
+                  "source": "llama-3.1-70b-versatile"
+                },
+                "icon": "Groq",
+                "allow_markdown": false,
+                "state": "complete",
+                "targets": []
+              },
+              "category": "message",
+              "content_blocks": []
+            }
+          },
+          "artifacts": {
+            "message": "Based on the provided data, I'll give insights on the total number of views on reels for each user.\n\n**Reels Views by User:**\n\n1. **User 101:** \n\n   - Total Reels: 14\n\n   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843\n\n   - Average Views per Reel: 2843 / 14 \u2248 203.07\n\n2. **User 102:** \n\n   - Total Reels: 9\n\n   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346\n\n   - Average Views per Reel: 1346 / 9 \u2248 149.56\n\n3. **User 103:** \n\n   - Total Reels: 7\n\n   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472\n\n   - Average Views per Reel: 1472 / 7 \u2248 210.29\n\n4. **User 104:** \n\n   - Total Reels: 4\n\n   - Total Views: 287 + 147 + 94 + 31 = 559\n\n   - Average Views per Reel: 559 / 4 \u2248 139.75\n\n5. **User 105:** \n\n   - Total Reels: 7\n\n   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590\n\n   - Average Views per Reel: 2590 / 7 \u2248 369.86\n\n**Insights:**\n\n- **User 105** has the highest average views per reel, indicating that their reel content is performing well.\n\n- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.\n\n- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.\n\n- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.\n\nThese insights can help users adjust their content strategy to increase engagement and views on their reels.",
+            "sender": "Machine",
+            "sender_name": "AI",
+            "files": [],
+            "type": "object"
+          },
+          "outputs": {
+            "message": {
+              "message": {
+                "timestamp": "2025-01-10T08:00:58",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "session_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+                "text": "Based on the provided data, I'll give insights on the total number of views on reels for each user.\n\n**Reels Views by User:**\n\n1. **User 101:** \n   - Total Reels: 14\n   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843\n   - Average Views per Reel: 2843 / 14 \u2248 203.07\n\n2. **User 102:** \n   - Total Reels: 9\n   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346\n   - Average Views per Reel: 1346 / 9 \u2248 149.56\n\n3. **User 103:** \n   - Total Reels: 7\n   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472\n   - Average Views per Reel: 1472 / 7 \u2248 210.29\n\n4. **User 104:** \n   - Total Reels: 4\n   - Total Views: 287 + 147 + 94 + 31 = 559\n   - Average Views per Reel: 559 / 4 \u2248 139.75\n\n5. **User 105:** \n   - Total Reels: 7\n   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590\n   - Average Views per Reel: 2590 / 7 \u2248 369.86\n\n**Insights:**\n\n- **User 105** has the highest average views per reel, indicating that their reel content is performing well.\n- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.\n- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.\n- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.\n\nThese insights can help users adjust their content strategy to increase engagement and views on their reels.",
+                "files": [],
+                "error": false,
+                "edit": false,
+                "properties": {
+                  "text_color": "",
+                  "background_color": "",
+                  "edited": false,
+                  "source": {
+                    "id": "GroqModel-SnoEd",
+                    "display_name": "Groq",
+                    "source": "llama-3.1-70b-versatile"
+                  },
+                  "icon": "Groq",
+                  "allow_markdown": false,
+                  "state": "complete",
+                  "targets": []
+                },
+                "category": "message",
+                "content_blocks": [],
+                "id": "dc75205d-f3a2-4412-a0c8-f5dfdadf2238",
+                "flow_id": "43c68ebb-271d-4306-b1f6-841940d93bbb"
+              },
+              "type": "object"
+            }
+          },
+          "logs": {
+            "message": []
+          },
+          "messages": [
+            {
+              "message": "Based on the provided data, I'll give insights on the total number of views on reels for each user.\n\n**Reels Views by User:**\n\n1. **User 101:** \n\n   - Total Reels: 14\n\n   - Total Views: 412 + 419 + 256 + 90 + 382 + 340 + 236 + 330 + 357 + 31 = 2843\n\n   - Average Views per Reel: 2843 / 14 \u2248 203.07\n\n2. **User 102:** \n\n   - Total Reels: 9\n\n   - Total Views: 142 + 31 + 109 + 283 + 209 + 120 + 111 + 200 + 31 = 1346\n\n   - Average Views per Reel: 1346 / 9 \u2248 149.56\n\n3. **User 103:** \n\n   - Total Reels: 7\n\n   - Total Views: 172 + 27 + 417 + 166 + 268 + 256 + 166 = 1472\n\n   - Average Views per Reel: 1472 / 7 \u2248 210.29\n\n4. **User 104:** \n\n   - Total Reels: 4\n\n   - Total Views: 287 + 147 + 94 + 31 = 559\n\n   - Average Views per Reel: 559 / 4 \u2248 139.75\n\n5. **User 105:** \n\n   - Total Reels: 7\n\n   - Total Views: 447 + 473 + 256 + 323 + 451 + 284 + 256 = 2590\n\n   - Average Views per Reel: 2590 / 7 \u2248 369.86\n\n**Insights:**\n\n- **User 105** has the highest average views per reel, indicating that their reel content is performing well.\n\n- **User 101** has the most reels and a significant total number of views, but their average views per reel are lower compared to other users.\n\n- **User 103** has a high average views per reel, suggesting that their content is engaging, despite having fewer reels than User 101.\n\n- **User 102** and **User 104** have lower average views per reel, indicating that they might need to adjust their content strategy to increase engagement.\n\nThese insights can help users adjust their content strategy to increase engagement and views on their reels.",
+              "sender": "Machine",
+              "sender_name": "AI",
+              "session_id": "43c68ebb-271d-4306-b1f6-841940d93bbb",
+              "component_id": "ChatOutput-w64rA",
+              "files": [],
+              "type": "message"
+            }
+          ],
+          "component_display_name": "Chat Output",
+          "component_id": "ChatOutput-w64rA",
+          "used_frozen_result": false
+        }
+      ]
+    }
+  ]
+}
