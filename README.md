@@ -36,7 +36,7 @@ A modern web application that provides AI-powered insights for social media cont
 1. Clone the repository:
 ```bash
 git clone https://github.com/amey-patil306/socialmedia_insights
-cd main
+
 ```
 
 2. Install frontend dependencies:
