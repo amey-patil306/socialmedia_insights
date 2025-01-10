@@ -66,11 +66,6 @@ npm run dev
 ```
 The frontend will be available at `http://localhost:5173`
 
-3. Uncomment the the configurations code in server.js file and add your own
-//const LANGFLOW_ID = "";
-//const FLOW_ID = "";
-
-
 
 ## Project Structure
 

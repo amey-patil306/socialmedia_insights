@@ -14,10 +14,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Configurations
-//const BASE_API_URL = "https://api.langflow.astra.datastax.com";
-//const LANGFLOW_ID = "";add your langflow_id
-//const FLOW_ID = ""; add your flow_id
-//const APPLICATION_TOKEN = process.env.APPLICATION_TOKEN || "add your application token";  
+const BASE_API_URL = "https://api.langflow.astra.datastax.com";
+const LANGFLOW_ID = "7bf70436-b4ef-46e9-ac71-a79c55927694";
+const FLOW_ID = "43c68ebb-271d-4306-b1f6-841940d93bbb";
+const APPLICATION_TOKEN = process.env.APPLICATION_TOKEN || "AstraCS:dpExdUJuemceNirosexcCkIv:63f9c17d444cecffdded0c8683003c615647f5d3b58210f670ccaeb37c8de783";
 
 // Enable CORS for the frontend
 app.use(cors({
